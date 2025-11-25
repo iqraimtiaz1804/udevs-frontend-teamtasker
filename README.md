@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TeamTasker — U Devs Frontend Internship Project
 
 A simple task & team management web app built using:
@@ -23,3 +24,7 @@ A simple task & team management web app built using:
 ```bash
 npm install
 npm run dev
+=======
+# udevs-frontend-teamtasker
+Frontend_task_udevs_task07
+>>>>>>> 2ee88bf1f68593b43ac14a7db96dbec1a1f9822f
